@@ -1,5 +1,9 @@
 # pdfjs_viewer-rails
 
+# Warning!
+
+It's modification special for Devise authentication user!
+
 ## Installation
 
 Add this line to your application's Gemfile:
